@@ -1,0 +1,16 @@
+{
+    "name": "test_c/test",
+    "description": "hahaha",
+    "authors": [
+        {
+            "name": "hc",
+            "email": "h.c@aivgou.cn"
+        }
+    ],
+    "require": {},
+"autoload": {
+    "psr-4": {
+      "tlanyan\\": "src/"
+    }
+  }
+}
